@@ -1,6 +1,6 @@
 # CoreMLSampleDemo
 
-# This demo has still been under development for the other object detections intially launching tutorial with few object detection.
+# This demo has been still under development for the other object detections intially launching tutorial with few object detection.
 
 #### Core ML lets you integrate a broad variety of machine learning model types into your app,You can easily build computer vision machine learning features into your app. Supported features include face tracking, face detection, landmarks, text detection, rectangle detection, barcode detection, object tracking, and image registration.
 
